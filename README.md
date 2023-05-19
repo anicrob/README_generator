@@ -33,5 +33,5 @@ node index.js
 
 Video: https://watch.screencastify.com/v/HrcOwgfszPWBDXuUE039
 
-Repo: https://github.com/anicrob/README-generator
+Repo: https://github.com/anicrob/README_generator
 
